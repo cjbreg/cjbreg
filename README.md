@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/coen-breg//">
-    <img align="right" alt="Coen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Coen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
 <br/>
 
 <br/>
-<img align="center" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=cjbreg&show_icons=true&theme=dark&count_private=true"  />
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=cjbreg&show_icons=true&theme=dark&count_private=true"  />
