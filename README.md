@@ -11,7 +11,4 @@
     <img align="left" alt="Coen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
-<br/>
-
-<br/>
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=cjbreg&show_icons=true&theme=dark&count_private=true"  />
