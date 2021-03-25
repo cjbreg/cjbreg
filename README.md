@@ -10,3 +10,4 @@
     <img align="left" alt="Coen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
 </p>
+![Coen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjbreg&hide=contribs,prs)
