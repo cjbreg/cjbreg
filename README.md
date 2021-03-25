@@ -12,6 +12,6 @@
     <img  alt="Coen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
     <a href = "mailto: abc@example.com">
-        <img alt="Coen's email" width="22px" src="https://raw.githubusercontent.com/gist/philaturner/8629b559d6ba62e7fda632c421c91fc0/raw/79666ca7a9258023ac642bfde32e314f381dca97/email-icon.svg" />
+        <img alt="Coen's email" height="22px" src="https://raw.githubusercontent.com/gist/philaturner/8629b559d6ba62e7fda632c421c91fc0/raw/79666ca7a9258023ac642bfde32e314f381dca97/email-icon.svg" />
     </a>
 </p>
