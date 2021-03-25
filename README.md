@@ -2,8 +2,8 @@
 <br/>
 
 
-- 🔭 I'm a software student a Fontys
-- 💻 I’m currently working as a intern at [HappyGreen](https://happy.green);
+- 🔭 I'm a software student at Fontys
+- 💻 I’m currently working as an intern at [HappyGreen](https://happy.green);
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/coen-breg//">
