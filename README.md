@@ -1,7 +1,10 @@
 ## Hi, I'm Coen Breg
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=cjbreg&show_icons=true&theme=dark&count_private=true"  />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjbreg&layout=compact&theme=dark&hide_border=false&count_private=true" />
+<div>
+    <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=cjbreg&show_icons=true&theme=dark&count_private=true"  />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjbreg&layout=compact&theme=dark&hide_border=false&count_private=true" />
+</div>
 <br/>
+    
 
 
 - 🔭 I'm a software student at Fontys
