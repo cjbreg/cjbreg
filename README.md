@@ -1,6 +1,6 @@
 ## Hi, I'm Coen Breg
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=cjbreg&show_icons=true&theme=dark&count_private=true"  />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjbreg&repo=anuraghazra.github.io&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjbreg&layout=compact&theme=dark&hide_border=true" />
 <br/>
 
 
