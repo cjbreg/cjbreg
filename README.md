@@ -14,4 +14,4 @@
     </a>
 </p>
 <br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjbreg&layout=compact&theme=dark&hide_border=false&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjbreg&layout=compact&theme=dark&hide_border=false&count_private=true&langs_count=3" />
