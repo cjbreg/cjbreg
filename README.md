@@ -3,7 +3,7 @@
 <br/>
 
 - 🔭 I'm a software student at Fontys
-- 💻 I’m currently working part-time at [HappyGreen](https://happy.green);
+- 💻 I’m currently working part-time at [HappyGreen](https://happy.green)
 - 🌱 I’m currently learning Microservices and NestJS
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/coen-breg//">
