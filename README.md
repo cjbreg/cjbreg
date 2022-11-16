@@ -3,8 +3,7 @@
 <br/>
 
 - 🔭 I'm a software student at Fontys
-- 💻 I’m currently working part-time at [HappyGreen](https://happy.green)
-- 🌱 I’m currently learning Microservices and NestJS
+- 💻 I’m currently working part-time at [OWOW](https://owow.io/)
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/coen-breg//">
     <img  alt="Coen's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
